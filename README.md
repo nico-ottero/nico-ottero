@@ -31,8 +31,11 @@
 ### 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-nicolas.ottero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Ottero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-ottero-68b8182b8/)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-nicolsottero-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero)
+
 
 
 ---
