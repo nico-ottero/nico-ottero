@@ -1,12 +1,13 @@
-![TEXTO](nico-ottero/NGC1097.png)
-
 <div align="center">
-  
-### Welcome!
+
+![Image captured by me while operating the 2.15‑meter telescope at CASLEO (Complejo Astronómico El Leoncito).](NGC1097.png)
+
+# Welcome!
 
 ## Nicolás Ottero
 
 ## Data Scientist | Data Analyst | Data Engineer | Astronomy Research
+
 </div>
 
 - I studied Data Science at [Instituto Data Science Argentina](https://institutodatascience.org/) and Astronomy at [UNC](https://www.unc.edu.ar/)
