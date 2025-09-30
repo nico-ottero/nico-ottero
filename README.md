@@ -7,6 +7,7 @@
 
 ## Data Scientist | Data Analyst | Data Engineer | Astronomy Research
 
+I studied Data Science at Henry and Astrophysicist at UNSJ
 - I work with **astronomical data**, pipelines, statistical analysis, and machine learning  
 - I'm interested in collaborating on **data science** projects applied to astrophysics
 
@@ -27,6 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero)
 
-
+✉️ **Email**: [nicolas.ottero@gmail.com](mailto:nicolas.ottero@gmail.com)
 ---
 
