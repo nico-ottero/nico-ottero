@@ -36,8 +36,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-nicolsottero-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero)
 
-
-
 ---
 
 <div align="center">
@@ -52,7 +50,7 @@ Desarrollé un sistema completo para el análisis automatizado de estrellas de c
 
 Este trabajo fue publicado en la revista científica de la Asociación Argentina de Astronomía (AAA) en colaboración con el PhD. David Merlo. 
 
-> Acceso al código completo y a las explicaciones detalladas a través de notebooks en Kaggle:
+Acceso al código completo y a las explicaciones detalladas a través de notebooks en Kaggle:
 
 1. [Catalog-Based Positional Matching of Carbon Stars](https://www.kaggle.com/code/nicolsottero/catalog-based-positional-matching-of-carbon-stars)
 2. [Ks Band Photometric Extraction for Carbon Stars](https://www.kaggle.com/code/nicolsottero/ks-band-photometric-extraction-for-carbon-star)
