@@ -1,13 +1,14 @@
 ![TEXTO](nico-ottero/NGC1097.png)
 
-
+<div align="center">
 # Welcome!
 
 ## Nicolás Ottero
 
 ## Data Scientist | Data Analyst | Data Engineer | Astronomy Research
+</div>
 
-I studied Data Science at Henry and Astrophysicist at UNSJ
+- I studied Data Science at [Instituto Data Science Argentina](https://www.institutodatascience.com/) and Astronomy at [UNC](https://www.unc.edu.ar/)
 - I work with **astronomical data**, pipelines, statistical analysis, and machine learning  
 - I'm interested in collaborating on **data science** projects applied to astrophysics
 
@@ -24,10 +25,11 @@ I studied Data Science at Henry and Astrophysicist at UNSJ
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com) : nicolas.ottero@gmail.com 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : nicolas.ottero@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero) 
+
 ---
 
