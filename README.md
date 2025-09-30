@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="NGC1097.png" alt="NGC 1097" width="600"/>
+  <p><em>Photograph I took during my time as an operator of the 2.15‑meter telescope at CASLEO.</em></p>
+</div>
 
-![Image captured by me while operating the 2.15‑meter telescope at CASLEO (Complejo Astronómico El Leoncito).](NGC1097.png)
+<div align="center">
 
 # Welcome!
 
@@ -27,9 +30,9 @@
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]: nicolas.ottero@gmail.com
+(https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/): https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero) 
 
-nicolas.ottero@gmail.com
-https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/
 ---
 
